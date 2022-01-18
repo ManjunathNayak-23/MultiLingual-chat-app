@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "602810168919",
+    "project_id": "multilingual-chat-95a61",
+    "storage_bucket": "multilingual-chat-95a61.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602810168919:android:4e3ed0a6128bdd1d12d512",
+        "android_client_info": {
+          "package_name": "com.example.multilingualchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602810168919-a3oa37uan206vt2093r7cp9f15rdujm8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9sKIebmdwCjlS7SQ_paixj4MKHXflF7w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "602810168919-a3oa37uan206vt2093r7cp9f15rdujm8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
